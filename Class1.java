@@ -11,6 +11,7 @@ public class Class1
     {
 	System.out.println("SOP 1 from class 1");
 	System.out.println("SOP 2 from class 1");
+	System.out.println("SOP 3 from class 1");
 
     }
 }
